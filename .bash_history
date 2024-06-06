@@ -1,0 +1,3 @@
+sudo su
+quit
+exit
